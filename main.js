@@ -1,4 +1,8 @@
-// Controller 
+/******************************
+ * Tweeter Project
+ * MVC - Controler
+******************************/
+
 
 const tweeter = Tweeter()
 const renderer = Renderer()

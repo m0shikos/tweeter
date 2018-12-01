@@ -1,6 +1,6 @@
 /******************************
- * My First Project -
- * Tweeter
+ * Tweeter Project
+ * MVC - Model
 ******************************/
 
 const Tweeter = function() {

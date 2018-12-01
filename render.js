@@ -1,3 +1,8 @@
+/******************************
+ * Tweeter Project
+ * MVC - View
+******************************/
+
 const Renderer = function() {
 
     let renderPosts = function(posts) {
